@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package uuid="funny-app-8475f4" version="0.0.0">
+ <names>
+  <name lang="en_US">Funny App</name>
+  <name lang="nl_NL">Doe gek app</name>
+ </names>
+ <descriptions>
+  <description lang="en_US">Do funny things</description>
+  <description lang="nl_NL">Doe gek</description>
+ </descriptions>
+ <supportedLanguages>
+  <language>en_US</language>
+  <language>nl_NL</language>
+ </supportedLanguages>
+ <descriptionLanguages>
+  <language>en_US</language>
+  <language>nl_NL</language>
+ </descriptionLanguages>
+ <contents>
+  <behaviorContent path="behavior_1">
+   <userRequestable/>
+   <nature>interactive</nature>
+   <names>
+    <name lang="en_US">Testbehavior_1</name>
+    <name lang="nl_NL">Testgedrag_1</name>
+   </names>
+   <triggerSentences>
+    <sentence lang="en_US">Do funny things</sentence>
+    <sentence lang="nl_NL">Doe gek</sentence>
+   </triggerSentences>
+   <loadingResponses>
+    <sentence lang="en_US">Let's do funny things</sentence>
+    <sentence lang="nl_NL">Laten we eens gek doen</sentence>
+   </loadingResponses>
+   <autonomous/>
+   <permissions/>
+  </behaviorContent>
+  <dialogContent typeVersion="1.0" topicName="Praatmetme">
+   <topic language="nl_NL" path="Praatmetme/Praatmetme_dun.top"/>
+  </dialogContent>
+ </contents>
+ <requirements>
+  <robotRequirement model="JULIETTE"/>
+ </requirements>
+</package>
