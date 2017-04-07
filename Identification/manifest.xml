@@ -19,8 +19,6 @@
    <triggerSentences>
     <sentence lang="en_US">identify</sentence>
    </triggerSentences>
-   <loadingResponses/>
-   <autonomous/>
    <permissions/>
   </behaviorContent>
  </contents>
