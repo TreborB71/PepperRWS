@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<package uuid="funny-app-8475f4" version="0.0.0">
+<package version="0.0.0" uuid="funny-app-8475f4">
  <names>
-  <name lang="en_US">Funny App</name>
-  <name lang="nl_NL">Doe gek app</name>
+  <name lang="en_US">Funny things</name>
+  <name lang="nl_NL">Doe eens gek</name>
  </names>
  <descriptions>
   <description lang="en_US">Do funny things</description>
@@ -21,8 +21,8 @@
    <userRequestable/>
    <nature>interactive</nature>
    <names>
-    <name lang="en_US">Testbehavior_1</name>
-    <name lang="nl_NL">Testgedrag_1</name>
+    <name lang="en_US">Crazy</name>
+    <name lang="nl_NL">Gek</name>
    </names>
    <triggerSentences>
     <sentence lang="en_US">Do funny things</sentence>
@@ -35,8 +35,8 @@
    <autonomous/>
    <permissions/>
   </behaviorContent>
-  <dialogContent typeVersion="1.0" topicName="Praatmetme">
-   <topic language="nl_NL" path="Praatmetme/Praatmetme_dun.top"/>
+  <dialogContent topicName="Praatmetme" typeVersion="1.0">
+   <topic path="Praatmetme/Praatmetme_dun.top" language="nl_NL"/>
   </dialogContent>
  </contents>
  <requirements>

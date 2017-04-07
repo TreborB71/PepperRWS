@@ -15,7 +15,7 @@
         <Topic name="Praatmetme_dun" src="Praatmetme/Praatmetme_dun.top" topicName="Praatmetme" language="nl_NL" />
     </Topics>
     <IgnoredPaths />
-    <Translations auto-fill="nl_NL">
+    <Translations auto-fill="en_US">
         <Translation name="translation_en_US" src="translations/translation_en_US.ts" language="en_US" />
         <Translation name="translation_nl_NL" src="translations/translation_nl_NL.ts" language="nl_NL" />
     </Translations>

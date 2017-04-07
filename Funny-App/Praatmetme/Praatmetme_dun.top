@@ -1,7 +1,8 @@
 topic: ~Praatmetme()
 language: dun
 
-u:(e:onStart) Hallo, goedendag. Ik heb zin in iets grappigs
+#u:(e:onStart) Hallo, goedendag. Ik heb zin in iets grappigs
+u:(Hallo) Hallo, goedendag. Ik heb zin in iets grappigs
 u:({Hallo} wat kun je {zoal} doen {Pepper}?) Ik kan saxofoon spelen of een olifant na doen. Ik weet ook wat de beste voetbalclub is van Nederland.
 u:({["Kun je" alsjeblieft]} saxafoon spelen) Leuk, ik speel saxofoon $sax=1
 u:(Speel saxofoon) Leuk, ik speel saxofoon $sax=1
