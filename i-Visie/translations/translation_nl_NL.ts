@@ -8,6 +8,17 @@
             <comment>Text</comment>
             <translation type="vanished">Hallo</translation>
         </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/Animated Say (1)</name>
+        <message>
+            <source>Hello</source>
+            <comment>Text</comment>
+            <translation type="vanished">Hallo</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/Dank en tot ziens</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Dank je wel dat je naar mij hebt willen luisteren. Heel graag tot een volgende keer.</source>
@@ -28,8 +39,7 @@
         <name>behavior_1/behavior.xar:/Dia 10</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>Ik heb je een aantal van de belangrijke ontwikkelingen verteld, maar veel belangrijker is nog hoe wij denken dat we dit allemaal in goede banen gaan leiden. Het allerbelangrijkste in deze digitale transformatie zijn de Rijkswaterstaaters zelf. Zij bewijzen elke dag weer dat zij adaptief zijn en mee kunnen bewegen met een veranderende wereld. De ievisie geeft aan wat er mogelijk is, en wat informatievoorziening kan bijdragen in een moderne organisatie als Rijkswaterstaat. Het is een uitnodiging aan ons allen om die mogelijkheden verder te verkennen.
-</source>
+            <source>Ik heb je een aantal van de belangrijke ontwikkelingen verteld, maar veel belangrijker is nog hoe wij denken dat we dit allemaal in goede banen gaan leiden. Het allerbelangrijkste in deze digitale transformatie zijn de Rijkswaterstaaters zelf. Zij bewijzen elke dag weer dat zij addaptief zijn en mee kunnen bewegen met een veranderende wereld. De ievisie geeft aan wat er mogelijk is, en wat informatievoorziening kan bijdragen in een moderne organisatie als Rijkswaterstaat. Het is een uitnodiging aan ons allen om die mogelijkheden verder te verkennen.</source>
             <comment>Text</comment>
             <translation type="unfinished"></translation>
         </message>
@@ -47,7 +57,7 @@
         <name>behavior_1/behavior.xar:/Dia 3</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>Er komen veel veranderingen op ons af. Er ontstaat een informatiemaatschappij waarin data centraal staat. We gebruiken data van, en voor mens en machine. Data is altijd en overal en data zal op maat beschikbaar moeten zijn afhankelijk van individuele behoefte. We zijn niet langer alleen een passieve dataconsument, maar ook een  actieve coproducent van data.</source>
+            <source>Er komen veel veranderingen op ons af. Er ontstaat een informatiemaatschappij waarin data centraal staat. We gebruiken data van, en voor mens en machine. Data is altijd en overal en data zal op maat beschikbaar moeten zijn afhankelijk van de individuele behoefte. We zijn niet langer alleen een passieve dataconsument, maar ook een  actieve coproducent van data.</source>
             <comment>Text</comment>
             <translation type="unfinished"></translation>
         </message>
@@ -57,7 +67,7 @@
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
             <source>Informatievoorziening verschuift voor Rijkswaterstaat richting de motor van zijn primaire processen. Denk aan aanleg en onderhoud, verkeersmanagement, omgevings, crisis en asset management, beheer van watersystemen en van de duurzame leefomgeving. We groeien door naar een informatiegedreven organisatie, met alle kansen en
-uitdagingen die erbij horen.</source>
+uitdagingen die daarbij horen.</source>
             <comment>Text</comment>
             <translation type="unfinished"></translation>
         </message>
@@ -84,7 +94,7 @@ uitdagingen die erbij horen.</source>
         <name>behavior_1/behavior.xar:/Dia 7</name>
         <message>
             <location filename="behavior_1/behavior.xar" line="0"/>
-            <source>We willen onze wegen en vaarwegen beter benutten door gebruik te maken van nieuwe technieken. Door het verzamelen van data via sensoren kunnen we met deze constante stroom van data allerlei analyses uitvoeren op basis van algoritmes. Deze algoritmes kunnen ons iets vertellen over de conditie van de objecten die wij beheren, zoals tunnels, sluizen en bruggen. Doordat trends ontstaan kunnen zelfs voorspellingen worden gedaan waarmee we pro-actief onderhoud kunnen doen om zo verstoringen te kunnen voorkomen.</source>
+            <source>We willen onze wegen en vaarwegen beter benutten door gebruik te maken van nieuwe technieken. Door het verzamelen van data via sensoren kunnen we met deze constante stroom van data allerlei analyses uitvoeren op basis van algoritmes. Deze algoritmes kunnen ons iets vertellen over de conditie van de objecten die wij beheren, zoals tunnels, sluizen en bruggen. Doordat trends ontstaan kunnen zelfs voorspellingen worden gedaan waarmee we pro-actief onderhoud kunnen doen om zo verstoringen te kunnen vorkomen.</source>
             <comment>Text</comment>
             <translation type="unfinished"></translation>
         </message>
@@ -113,6 +123,15 @@ uitdagingen die erbij horen.</source>
             <source>Hello</source>
             <comment>Text</comment>
             <translation type="vanished">Hallo</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/Tot ziens</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Tot ziens.</source>
+            <comment>Text</comment>
+            <translation type="unfinished"></translation>
         </message>
     </context>
 </TS>
